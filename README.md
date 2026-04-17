@@ -2,8 +2,7 @@
 Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
-![App Greeting](https://github.com/sharmelitasigalingging-cell/pertemaun5/blob/main/home%205.jpeg,
-https://github.com/sharmelitasigalingging-cell/pertemaun5/blob/main/login%205.jpeg 
+![App Greeting](https://github.com/sharmelitasigalingging-cell/pertemaun5/blob/main/gabungan%205.jpeg)
 )
 
 ## 🛠️ Logic Implemented
