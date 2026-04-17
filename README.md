@@ -1,0 +1,14 @@
+# Project M4: Interaction Master ⚡
+Tugas praktikum Minggu 4 - State & Events.
+
+## 📸 Preview
+![App Greeting](https://github.com/sharmelitasigalingging-cell/pertemuan3/blob/main/sstugass.jpeg)
+)
+
+## 🛠️ Logic Implemented
+- **useState Hook:** Managing name and role input.
+- **Event Handlers:** onChangeText for real-time binding.
+- **Reset Logic:** Clearing all states with one tap.
+
+## 🔗 Demo
+[Cek di Expo Snack](https://snack.expo.dev/@arin_its06/pertemaun5?platform=web)
